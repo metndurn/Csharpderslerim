@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegiskenTipleri", "Degisken
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Operatorler", "Operatorler\Operatorler.csproj", "{5D0A3FAF-9F6A-43AD-B596-C0DC03C15E3D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreakpointveTooltipOnemi", "BreakpointveTooltipOnemi\BreakpointveTooltipOnemi.csproj", "{09CE2399-1A4C-4773-AADE-DF08E87AFF00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullanicidanDegerAlma", "KullanicidanDegerAlma\KullanicidanDegerAlma.csproj", "{2AA463D5-B559-4A4A-9206-58A0622C94A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{5D0A3FAF-9F6A-43AD-B596-C0DC03C15E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0A3FAF-9F6A-43AD-B596-C0DC03C15E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0A3FAF-9F6A-43AD-B596-C0DC03C15E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CE2399-1A4C-4773-AADE-DF08E87AFF00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CE2399-1A4C-4773-AADE-DF08E87AFF00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CE2399-1A4C-4773-AADE-DF08E87AFF00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CE2399-1A4C-4773-AADE-DF08E87AFF00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AA463D5-B559-4A4A-9206-58A0622C94A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AA463D5-B559-4A4A-9206-58A0622C94A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AA463D5-B559-4A4A-9206-58A0622C94A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AA463D5-B559-4A4A-9206-58A0622C94A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
